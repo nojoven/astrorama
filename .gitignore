@@ -1,0 +1,6 @@
+/bower_components/
+/node_modules/
+/app/libs/*
+/.idea/
+/app/test.html
+/app/script/accordion.js
